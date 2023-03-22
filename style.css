@@ -1,0 +1,236 @@
+.image{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+}
+.mybody{
+     background-color: rgb(3, 3, 3);
+}
+.title{
+    position: absolute;
+width: 336px;
+height: 82px;
+left: 462px;
+top: 200px;
+font-family: 'Netflix Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 82px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+}
+.container{
+    display: flex;
+    /* flex-wrap: wrap;*/
+    justify-content: center;
+    
+}
+.img{
+    width: 150px;
+    height: 140px;
+    margin-right: 0px;
+    position: relative;
+    left: 0px;
+    right: 0%;
+    top: 0%;
+    bottom: 0%; 
+    margin-top: 350px;
+   
+  
+
+}
+.img-vec{
+    width: 120px;
+    height: 120px;
+    margin-right: 0px;
+    margin-top:380px;
+}
+figcaption{
+    font-family: 'Netflix Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 33px;
+align-items: center;
+text-align: center;
+color: rgba(109, 109, 110, 0.7);
+
+}
+button{
+border: 1px solid #808080 ;
+font-family: 'Netflix Sans';
+font-size: 26px;
+font-weight: 300;
+line-height: 33px;
+display: flex;
+/* align-items:flex-end; */
+background-color: black;
+color: #808080;
+margin-left: 500px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+  }
+  header{
+    background-color: black;
+    Width:100%;
+Height:40px;
+  }
+.bodyy{
+    background-color: black;
+}
+  li{
+    /*you can use any of these*/
+    /* display:inline; */
+    float: left;
+    
+  }
+  li a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding: 5px 14px;
+    font-size: 20px;
+    font-weight: 300;
+    font-family: 'Netflix Sans';
+    
+  }
+  li a:hover{
+    background-color: #808080;
+  }
+  .logo{
+    padding-right: 20px;
+  }
+  .shift{
+    float:right;
+  }
+  .top{
+    position: absolute;
+    top: 250px;
+    left: 16px;
+    
+  }
+  .top-down{
+    position:absolute;
+    top: 380px;
+    left: 20px;
+    }
+  .top-text{
+    position: absolute;
+    left: 55px;
+    top:347px;
+     font-family:Netflix Sans;
+   font-weight:500px;
+    font-size:30px;
+    margin-bottom: 50px; 
+    color:#FFFFFF;
+    flex: none;
+}
+.top-para{
+    position:absolute;
+    top: 400px;
+    left: 20px;
+    color:white;
+    font-family: 'Netflix Sans';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 23px;
+    line-height: 33px;
+}
+.playbutton{
+    position:absolute;
+    top: 550px;
+    left: 20px;
+    }
+    .top-text2{
+        position: absolute;
+        left: 20px;
+        top:600px;
+         font-family:Netflix Sans;
+       font-weight:500px;
+        font-size:30px;
+        margin-bottom: 50px; 
+        color:#FFFFFF;
+        flex: none;
+    }
+    .movies{
+        width: 263px;
+        height: 160px;
+        border-radius: 2px;
+    }
+    .movieheader{
+        color: white;
+        font-family:Netflix Sans;
+        font-weight:500px;
+         font-size:26px;
+         margin-bottom: 2px;
+    }
+    .movies2{
+        width: 263px;
+        height: 500px;
+        border-radius: 4px;
+        position: relative;
+    }
+    .movies3{
+        position: relative;
+height: 170px;
+width: 90px;
+left: 55px;
+background: #141414;
+border-color: #808080;
+top: 9px;
+    }
+    .movies4{
+        position: relative;
+        height: 180px;
+        width: 150px;
+        left: 45px;
+        background: #141414;
+        border-color: #808080;
+        top: 12px;
+    }
+    .movies5{
+        position: relative;
+        height: 180px;
+        width: 294px;
+        left: 50px;
+        background: #141414;
+        border-color: #808080;
+        top: 12px;  
+    }
+    .movievector{
+        position: relative;
+        height: 162px;
+        width: 120px;
+        left: 4px;
+        background: #141414;
+        border-color: #808080;
+        top: 2px;  
+    }
+    .footernote{
+        color: white;
+    }
+    .footernote1{
+        color: white;
+        margin-left: 150px;
+    }
+    .foot{
+        float:left;
+        margin-top:30px;
+        margin-left: 200px;
+    }
+    .footer{
+        float:left;
+        margin-top:55px;
+        margin-left: 100px;
+    }
